@@ -1,0 +1,29 @@
+*.tmp
+
+# Word temporary
+~$*.doc*
+*.doc
+*.docx
+*.txt
+# Excel temporary
+~$*.xls*
+*.xlsx
+*.xls
+
+# Excel Backup File
+*.xlk
+
+# PowerPoint temporary
+~$*.ppt*
+
+# Visio autosave temporary files
+*.~vsd*
+
+*.sav
+*.h5
+
+*.png
+*.jpg
+
+# Jupyter 
+.ipynb_checkpoints
