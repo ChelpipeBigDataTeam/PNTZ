@@ -1,3 +1,7 @@
+MODELS
+MODELS_RF
+MODELS_kerasNN
+
 *.tmp
 
 # Word temporary
