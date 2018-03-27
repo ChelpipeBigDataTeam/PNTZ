@@ -1,6 +1,7 @@
 MODELS
 MODELS_RF
 MODELS_kerasNN
+__pycache__
 
 *.tmp
 
