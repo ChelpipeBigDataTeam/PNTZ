@@ -2,7 +2,7 @@ MODELS
 MODELS_RF
 MODELS_kerasNN
 __pycache__
-
+tmp.ipynb
 *.tmp
 
 # Word temporary
