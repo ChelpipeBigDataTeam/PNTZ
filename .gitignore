@@ -2,6 +2,7 @@ MODELS
 MODELS_RF
 MODELS_kerasNN
 MODELS_Code
+а надо ли это
 __pycache__
 tmp.ipynb
 *.tmp
