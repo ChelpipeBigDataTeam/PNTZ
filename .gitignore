@@ -3,6 +3,9 @@ MODELS_RF
 MODELS_kerasNN
 MODELS_Code
 а надо ли это
+1.py
+1.txt.py
+backup.py
 __pycache__
 tmp.ipynb
 *.tmp
