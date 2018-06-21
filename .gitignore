@@ -2,11 +2,17 @@ MODELS
 MODELS_RF
 MODELS_kerasNN
 MODELS_Code
+DATA
+PNTZ_sol
+PNTZ_sol.lnk
+__pycache__
+*.rar
+*.zip
 а надо ли это
 1.py
 1.txt.py
 backup.py
-__pycache__
+
 tmp.ipynb
 *.tmp
 
