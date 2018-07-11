@@ -15,6 +15,7 @@ backup.py
 
 tmp.ipynb
 *.tmp
+*.csv
 
 # Word temporary
 ~$*.doc*
